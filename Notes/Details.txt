@@ -1,0 +1,6 @@
+Notes List: Displays the titles of all saved notes in the "Notes" directory.
+Text Area: A central area to write and edit note content.Buttons:
+New Note: Clears the text area to create a new note.
+Save Note: Saves the content in the text area as a .txt file. If a note with the same title exists, it will be overwritten.
+Delete Note: Deletes the selected note file and updates the list.
+File System: Notes are saved as .txt files in a "Notes" folder in the same directory as the application.
